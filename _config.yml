@@ -3,7 +3,7 @@ description: "Professor, Computer & Information Sciences, Temple University"
 url: "https://richardsouvenir.github.io"
 baseurl: ""          # user site -> empty
 remote_theme: "mmistakes/minimal-mistakes@4.27.1"
-plugins: [jekyll-feed, jekyll-sitemap]
+plugins: [jekyll-feed, jekyll-sitemap, jekyll-include-cache]
 markdown: kramdown
 permalink: /:categories/:title/
 collections:          # lets you add pages outside _posts
