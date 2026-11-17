@@ -1,0 +1,49 @@
+# News, newest first. Add new items at the TOP.
+#   date: YYYY-MM-DD (the page shows month and year)
+#   text: one line; Markdown links work, e.g. [paper](https://...)
+# The page shows the 6 most recent items; the rest go under "Older news".
+
+- date: 2026-07-01
+  text: Began serving as Temple's Vice Provost for Strategy and AI.
+
+- date: 2026-05-04
+  text: >-
+    "LS2MC-GDA: A Smoothed Algorithm for Federated Stochastic Compositional Minimax
+    Optimization" with Xinwen Zhang and Hongchang Gao accepted to ICML 2026 in Seoul.
+
+- date: 2025-10-19
+  text: Served as Program Chair for ICCV 2025 in Honolulu.
+
+- date: 2025-09-01
+  text: Co-founded Imaging for Good, a nonprofit advancing technology for social impact.
+
+- date: 2025-04-01
+  text: Moderated panels at the Data Science & AI @Temple Symposium and Innovation with Impact.
+
+- date: 2025-02-01
+  text: Presented "AI in Higher Education" to the Temple University Board of Trustees.
+
+- date: 2025-01-09
+  text: >-
+    "Evaluating the Impact of AI-Generated Visual Explanations on Decision-Making for Image
+    Matching" accepted to ACM IUI 2025. Congratulations to Batool, and to Marcus, a Swarthmore
+    REU student, on his first publication.
+
+- date: 2024-08-15
+  text: Gave a keynote at AI4ALL, Princeton University.
+
+- date: 2024-08-01
+  text: >-
+    Hosted three students through the [Temple REU Site](https://odin.cis.temple.edu/~reu/).
+    Peter and Marcus placed second and third at the REU Symposium.
+
+- date: 2024-06-24
+  text: Named a Program Chair for ICCV 2025.
+
+- date: 2024-05-03
+  text: >-
+    "A Federated Stochastic Multi-level Compositional Minimax Algorithm for Deep AUC
+    Maximization" accepted to ICML 2024 in Vienna.
+
+- date: 2024-01-04
+  text: Served as General Chair for WACV 2024.

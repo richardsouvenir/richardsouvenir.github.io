@@ -1,0 +1,50 @@
+# Selected publications, in the order shown.
+# DRAFT LIST: replace with your 8–10 picks.
+#   authors: your name is bolded automatically
+#   image: optional, e.g. /images/pubs/hotels50k.jpg (about 320×200)
+#   award: optional, e.g. "Best Paper Award"
+#   links: any labels you like (Paper, Code, Project, Data)
+
+- title: "LS2MC-GDA: A Smoothed Algorithm for Federated Stochastic Compositional Minimax Optimization"
+  authors: Xinwen Zhang, Richard Souvenir, Hongchang Gao
+  venue: International Conference on Machine Learning (ICML)
+  year: 2026
+
+- title: Evaluating the Impact of AI-Generated Visual Explanations on Decision-Making for Image Matching
+  authors: Albatool Wazzan, Marcus Wright, Stephen MacNeil, Richard Souvenir
+  venue: ACM Conference on Intelligent User Interfaces (IUI)
+  year: 2025
+
+- title: A Federated Stochastic Multi-level Compositional Minimax Algorithm for Deep AUC Maximization
+  authors: Xinwen Zhang, Ali Payani, Myungjin Lee, Richard Souvenir, Hongchang Gao
+  venue: International Conference on Machine Learning (ICML)
+  year: 2024
+
+- title: Visualizing Paired Image Similarity in Transformer Networks
+  authors: Samuel Black, Abby Stylianou, Robert Pless, Richard Souvenir
+  venue: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
+  year: 2022
+  links:
+    - label: Code
+      url: https://github.com/vidarlab/xformer-paired-viz
+
+- title: "Hotels-50K: A Global Hotel Recognition Dataset"
+  authors: Abby Stylianou, Hong Xuan, Maya Shende, Jonathan Brandt, Richard Souvenir, Robert Pless
+  venue: AAAI Conference on Artificial Intelligence
+  year: 2019
+  links:
+    - label: Paper
+      url: https://arxiv.org/abs/1901.11397
+
+- title: Deep Randomized Ensembles for Metric Learning
+  authors: Hong Xuan, Richard Souvenir, Robert Pless
+  venue: European Conference on Computer Vision (ECCV)
+  year: 2018
+  links:
+    - label: Code
+      url: https://github.com/littleredxh/DREML
+
+- title: Manifold Clustering
+  authors: Richard Souvenir, Robert Pless
+  venue: IEEE International Conference on Computer Vision (ICCV)
+  year: 2005

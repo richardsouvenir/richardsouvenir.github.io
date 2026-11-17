@@ -1,0 +1,63 @@
+# Header, intro and "What I work on" text.
+# Text fields support Markdown (links, *italics*, **bold**).
+
+name: Richard Souvenir
+titles:
+  - Professor, Computer and Information Sciences
+  - Vice Provost for Strategy and AI
+affiliation: Temple University
+email: souvenir@temple.edu
+
+# Photo: upload a square image to images/headshot.jpg (about 600×600).
+# Until then the page shows your initials.
+headshot: /images/headshot.jpg
+
+links:
+  - label: Google Scholar
+    url: https://scholar.google.com/citations?user=1sMNiJIAAAAJ&hl=en
+  - label: GitHub
+    url: https://github.com/vidarlab
+  # - label: LinkedIn
+  #   url: https://www.linkedin.com/in/...
+  # - label: ORCID
+  #   url: https://orcid.org/...
+
+intro: >-
+  I'm a Professor of Computer and Information Sciences and Vice Provost for Strategy and AI
+  at Temple University. My research develops AI systems that help people interpret visual
+  evidence and connect images to real-world places and contexts. As vice provost, I lead
+  university strategy and Temple's approach to AI across teaching, research, and operations.
+
+focus:
+  - heading: Research
+    text: >-
+      My lab works at the intersection of computer vision, visual search, and human-AI
+      interaction: image retrieval and geolocation, interpretable similarity models, and
+      studies of how people make decisions with AI-generated visual explanations. Much of
+      this work supports investigators, including hotel recognition for human-trafficking
+      cases. I have published 80+ peer-reviewed papers, supported by over $10M in funding
+      from NSF, DOD, ARL, NIJ, and Google.
+  - heading: AI and strategy at Temple
+    text: >-
+      As Vice Provost for Strategy and AI, I lead university-wide strategic planning and
+      Temple's approach to AI. I co-chair the University Strategic Plan Council, chaired the
+      University Online Strategy Task Force, and co-chair a work group for Temple's Middle
+      States (MSCHE) accreditation. Previously I served as Vice Provost for Strategic
+      Initiatives, Interim Vice Provost for Graduate Education, and Associate Dean for
+      Graduate Affairs in the College of Science and Technology.
+  - heading: Service to the field
+    text: >-
+      Program Chair for ICCV 2025; General Chair for WACV 2024 and Program Chair for WACV 2022
+      and 2023; member of the WACV Steering Committee; Senior Area Chair for CVPR 2024 and
+      Area Chair for CVPR, ICCV, and ECCV. Associate Editor of *Pattern Recognition* and
+      *Machine Vision and Applications*.
+  - heading: Imaging for Good
+    text: >-
+      I co-founded and serve as Vice President and Treasurer of Imaging for Good, a nonprofit
+      that advances imaging and AI technology for social impact.
+
+teaching: "Computer Vision, Machine Learning, Artificial Intelligence, Design and Analysis of Algorithms"
+
+contact: >-
+  I'm glad to hear from researchers working on visual search and human-AI decision-making,
+  colleagues thinking about AI in higher education, and prospective students.

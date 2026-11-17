@@ -1,24 +1,13 @@
 title: "Richard Souvenir"
-description: "Professor, Computer & Information Sciences, Temple University"
+description: "Professor of Computer and Information Sciences and Vice Provost for Strategy and AI at Temple University."
 url: "https://richardsouvenir.github.io"
-baseurl: ""          # user site -> empty
-remote_theme: "mmistakes/minimal-mistakes@4.27.1"
-plugins: [jekyll-feed, jekyll-sitemap, jekyll-include-cache]
-markdown: kramdown
-permalink: /:categories/:title/
-collections:          # lets you add pages outside _posts
-  pages:
-    output: true
+baseurl: ""
 
-# Top navigation
-main:
-  - title: "Home"
-    url: /
-  - title: "News"
-    url: /news/
-  - title: "Research"
-    url: /research/
-  - title: "Teaching"
-    url: /teaching/
-  - title: "Publications"
-    url: /publications/
+timezone: UTC
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - README.md

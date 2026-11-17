@@ -1,0 +1,90 @@
+# VIDAR Lab members and alumni.
+#   year: graduation year (optional; shown after the name)
+#   next: first position after the lab (optional)
+
+current:
+  - name: Iman Qaiser
+    role: Ph.D. Student
+  - name: Kosta Jorgji
+    role: Research Engineer
+  - name: Owen Cabalceta
+    role: Research Affiliate
+  - name: Marco Given
+    role: Undergraduate Researcher
+  - name: Salwa Sibay
+    role: Undergraduate Researcher
+
+phd:
+  - name: Sam Black
+    year:
+    next: Senior Data Scientist, Walmart Global Tech
+  - name: Junjie Shan
+    year:
+    next: Software Engineer, Google
+  - name: Scott Spurlock
+    year:
+    next: Associate Professor, Elon University
+  - name: Batool Wazzan
+    year:
+    next: Assistant Professor, King Abdulaziz University
+  - name: Hui Wu
+    year:
+    next: Principal Research Scientist, IBM Watson
+
+ms:
+  - name: Jack Amend
+    next: Penn Mutual
+  - name: Justin Babbs
+    next: L-3 Communications
+  - name: Steven Danilowicz
+    next: HDR, Inc.
+  - name: Jinzhu (Natalia) Deng
+  - name: Pete Giardiniere
+  - name: Jerrod Kraftchick
+    next: Duke Energy
+  - name: Prem Murugesan
+    next: Amazon
+  - name: Dhaval Patel
+    next: Intel
+  - name: Chris Sinclair
+    next: Creative Artists
+  - name: Cua Thao
+  - name: Muhsin Fatih Yorulmaz
+    next: Pictor Labs
+
+bs:
+  - name: Daniel Bowers
+    next: Pilot Fiber
+  - name: Dustin Bowers
+    next: Pilot Fiber
+  - name: Andrea Brandt
+  - name: John Brown
+    next: Comcast
+  - name: Owen Cabalceta
+    next: Comcast
+  - name: Kevin Calhoun
+  - name: Brian Davis
+    next: SAP
+  - name: Joe Hadley
+    next: Accenture
+  - name: Brandon Kerr
+    next: NSF GRF, Boeing
+  - name: Sally Kim (Georgia Tech)
+    next: Amazon
+  - name: Patrick Lachance
+  - name: Jake Lawrence
+    next: Facebook
+  - name: Peter Malmgren
+    next: Nexcom Mobility
+  - name: Cecilia Mauceri (Oberlin College)
+    next: Ph.D. Student, UIUC
+  - name: Terrell Nowlin
+    next: NYU / Comcast
+  - name: Kat Osadchuck
+    next: Vanguard
+  - name: Shaun Pickford
+    next: Microsoft
+  - name: Madilyn Simons
+    next: Blizzard Entertainment
+  - name: Quang Tran
+    next: VantaForce
