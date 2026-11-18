@@ -46,7 +46,7 @@ layout: null
 
     <header id="top" class="hero">
       {%- if photo -%}
-      <img class="headshot" src="{{ p.headshot }}" alt="Portrait of {{ p.name }}" width="168" height="168">
+      <img class="headshot" src="{{ p.headshot_small | default: p.headshot }}" srcset="{{ p.headshot_small }} 336w, {{ p.headshot }} 600w" sizes="168px" alt="Portrait of {{ p.name }}" width="168" height="168">
       {%- else -%}
       <div class="headshot headshot-fallback" aria-hidden="true">RS</div>
       {%- endif %}
@@ -73,7 +73,7 @@ layout: null
       <h2 id="work-h">What I work on</h2>
       <div class="focus">
         {%- for f in p.focus %}
-        <article>
+        <article class="focus-card c-{{ f.color | default: 'cherry' }}">
           <h3>{{ f.heading }}</h3>
           {{ f.text | markdownify }}
         </article>

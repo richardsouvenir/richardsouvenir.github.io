@@ -1,32 +1,38 @@
-# Selected publications, in the order shown.
-# DRAFT LIST: replace with your 8–10 picks.
+# Selected publications, in the order shown (5–6 is the target).
 #   authors: your name is bolded automatically
-#   image: optional, e.g. /images/pubs/hotels50k.jpg (about 320×200)
+#   image: optional, e.g. /images/pubs/geoloc.jpg (about 320×200)
 #   award: optional, e.g. "Best Paper Award"
 #   links: any labels you like (Paper, Code, Project, Data)
-
-- title: "LS2MC-GDA: A Smoothed Algorithm for Federated Stochastic Compositional Minimax Optimization"
-  authors: Xinwen Zhang, Richard Souvenir, Hongchang Gao
-  venue: International Conference on Machine Learning (ICML)
-  year: 2026
+#
+# Alternates if you want to swap one in:
+#   Manifold Clustering (ICCV 2005), Finding Waldo: Learning about Users from their
+#   Interactions (IEEE TVCG 2014), Visualizing Deep Similarity Networks (WACV 2019)
 
 - title: Evaluating the Impact of AI-Generated Visual Explanations on Decision-Making for Image Matching
   authors: Albatool Wazzan, Marcus Wright, Stephen MacNeil, Richard Souvenir
   venue: ACM Conference on Intelligent User Interfaces (IUI)
   year: 2025
-
-- title: A Federated Stochastic Multi-level Compositional Minimax Algorithm for Deep AUC Maximization
-  authors: Xinwen Zhang, Ali Payani, Myungjin Lee, Richard Souvenir, Hongchang Gao
-  venue: International Conference on Machine Learning (ICML)
-  year: 2024
-
-- title: Visualizing Paired Image Similarity in Transformer Networks
-  authors: Samuel Black, Abby Stylianou, Robert Pless, Richard Souvenir
-  venue: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
-  year: 2022
   links:
+    - label: Paper
+      url: https://doi.org/10.1145/3708359.3712121
+
+- title: Multi-View Classification Using Hybrid Fusion and Mutual Distillation
+  authors: Samuel Black, Richard Souvenir
+  venue: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
+  year: 2024
+  links:
+    - label: Paper
+      url: https://openaccess.thecvf.com/content/WACV2024/papers/Black_Multi-View_Classification_Using_Hybrid_Fusion_and_Mutual_Distillation_WACV_2024_paper.pdf
     - label: Code
-      url: https://github.com/vidarlab/xformer-paired-viz
+      url: https://github.com/vidarlab/multi-view-hybrid
+
+- title: Comparing Traditional and LLM-based Search for Image Geolocation
+  authors: Albatool Wazzan, Stephen MacNeil, Richard Souvenir
+  venue: ACM SIGIR Conference on Human Information Interaction and Retrieval (CHIIR)
+  year: 2024
+  links:
+    - label: Paper
+      url: https://arxiv.org/abs/2401.10184
 
 - title: "Hotels-50K: A Global Hotel Recognition Dataset"
   authors: Abby Stylianou, Hong Xuan, Maya Shende, Jonathan Brandt, Richard Souvenir, Robert Pless
@@ -41,10 +47,15 @@
   venue: European Conference on Computer Vision (ECCV)
   year: 2018
   links:
+    - label: Paper
+      url: https://arxiv.org/abs/1808.04469
     - label: Code
       url: https://github.com/littleredxh/DREML
 
-- title: Manifold Clustering
-  authors: Richard Souvenir, Robert Pless
+- title: Wide-Area Image Geolocalization with Aerial Reference Imagery
+  authors: Scott Workman, Richard Souvenir, Nathan Jacobs
   venue: IEEE International Conference on Computer Vision (ICCV)
-  year: 2005
+  year: 2015
+  links:
+    - label: Paper
+      url: https://arxiv.org/abs/1510.03743

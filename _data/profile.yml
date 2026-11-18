@@ -1,5 +1,6 @@
 # Header, intro and "What I work on" text.
 # Text fields support Markdown (links, *italics*, **bold**).
+# Focus-block colors: cherry, indigo, teal, amber.
 
 name: Richard Souvenir
 titles:
@@ -11,6 +12,7 @@ email: souvenir@temple.edu
 # Photo: upload a square image to images/headshot.jpg (about 600×600).
 # Until then the page shows your initials.
 headshot: /images/headshot.jpg
+headshot_small: /images/headshot-336.jpg
 
 links:
   - label: Google Scholar
@@ -30,6 +32,7 @@ intro: >-
 
 focus:
   - heading: Research
+    color: cherry
     text: >-
       My lab works at the intersection of computer vision, visual search, and human-AI
       interaction: image retrieval and geolocation, interpretable similarity models, and
@@ -38,6 +41,7 @@ focus:
       cases. I have published 80+ peer-reviewed papers, supported by over $10M in funding
       from NSF, DOD, ARL, NIJ, and Google.
   - heading: AI and strategy at Temple
+    color: indigo
     text: >-
       As Vice Provost for Strategy and AI, I lead university-wide strategic planning and
       Temple's approach to AI. I co-chair the University Strategic Plan Council, chaired the
@@ -46,12 +50,14 @@ focus:
       Initiatives, Interim Vice Provost for Graduate Education, and Associate Dean for
       Graduate Affairs in the College of Science and Technology.
   - heading: Service to the field
+    color: teal
     text: >-
-      Program Chair for ICCV 2025; General Chair for WACV 2024 and Program Chair for WACV 2022
+      General Chair for CVPR 2028; Program Chair for ICCV 2025; General Chair for WACV 2024 and Program Chair for WACV 2022
       and 2023; member of the WACV Steering Committee; Senior Area Chair for CVPR 2024 and
       Area Chair for CVPR, ICCV, and ECCV. Associate Editor of *Pattern Recognition* and
       *Machine Vision and Applications*.
   - heading: Imaging for Good
+    color: amber
     text: >-
       I co-founded and serve as Vice President and Treasurer of Imaging for Good, a nonprofit
       that advances imaging and AI technology for social impact.
