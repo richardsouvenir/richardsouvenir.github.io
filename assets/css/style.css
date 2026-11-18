@@ -163,9 +163,6 @@ details.more[open] > ul { margin-top: 0.6rem; }
 .teaching { margin-top: 2rem; font-size: 0.95rem; color: var(--muted); }
 .teaching strong { color: var(--text); font-weight: 500; }
 
-/* Contact */
-#contact .email { font-family: var(--serif); font-size: 1.3rem; }
-
 .footer { padding: 2rem 1.5rem 3rem; border-top: 1px solid var(--rule); font-size: 0.82rem; color: var(--muted); }
 .footer p { margin: 0; }
 
