@@ -5,13 +5,13 @@
 current:
   - name: Iman Qaiser
     role: Ph.D. Student
+  - name: Salwa Sibay
+    role: Ph.D. Student
   - name: Kosta Jorgji
     role: Research Engineer
   - name: Owen Cabalceta
     role: Research Affiliate
   - name: Marco Given
-    role: Undergraduate Researcher
-  - name: Salwa Sibay
     role: Undergraduate Researcher
 
 phd:
