@@ -156,6 +156,7 @@ details.more[open] > ul { margin-top: 0.6rem; }
 .roster li { display: grid; grid-template-columns: minmax(11rem, 0.9fr) 1.1fr; gap: 1rem; padding: 0.4rem 0; font-size: 0.95rem; }
 .roster li + li { border-top: 1px dashed var(--rule); }
 .roster .who { font-weight: 500; }
+.roster .deg { display: inline-block; margin-left: 0.35rem; padding: 0 0.45rem; border-radius: 99px; font-size: 0.7rem; font-weight: 600; letter-spacing: 0.03em; line-height: 1.45rem; vertical-align: 0.08em; color: var(--muted); background: var(--surface); border: 1px solid var(--rule); }
 .roster .yr { color: var(--muted); font-weight: 400; }
 .roster .what { color: var(--muted); }
 .roster.compact li { padding: 0.28rem 0; font-size: 0.9rem; }

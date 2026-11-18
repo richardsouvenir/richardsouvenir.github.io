@@ -143,18 +143,10 @@ layout: null
       </ul>
 
       <details class="more">
-        <summary>M.S. alumni ({{ ppl.ms.size }})</summary>
+        <summary>Lab alums ({{ ppl.lab_alums.size }})</summary>
         <ul class="roster compact">
-          {%- for m in ppl.ms %}
-          <li><span class="who">{{ m.name }}</span><span class="what">{{ m.next }}</span></li>
-          {%- endfor %}
-        </ul>
-      </details>
-      <details class="more">
-        <summary>B.S. alumni ({{ ppl.bs.size }})</summary>
-        <ul class="roster compact">
-          {%- for m in ppl.bs %}
-          <li><span class="who">{{ m.name }}</span><span class="what">{{ m.next }}</span></li>
+          {%- for m in ppl.lab_alums %}
+          <li><span class="who">{{ m.name }} <span class="deg">{{ m.degree }}</span></span><span class="what">{{ m.next }}</span></li>
           {%- endfor %}
         </ul>
       </details>

@@ -1,6 +1,7 @@
 # VIDAR Lab members and alumni.
 #   year: graduation year (optional; shown after the name)
 #   next: first position after the lab (optional)
+#   degree (lab alums): M.S. or B.S. Keep lab alums in alphabetical order by last name.
 
 current:
   - name: Iman Qaiser
@@ -31,60 +32,88 @@ phd:
     year:
     next: Principal Research Scientist, IBM Watson
 
-ms:
+lab_alums:
   - name: Jack Amend
+    degree: M.S.
     next: Penn Mutual
   - name: Justin Babbs
+    degree: M.S.
     next: L-3 Communications
-  - name: Steven Danilowicz
-    next: HDR, Inc.
-  - name: Jinzhu (Natalia) Deng
-  - name: Pete Giardiniere
-  - name: Jerrod Kraftchick
-    next: Duke Energy
-  - name: Prem Murugesan
-    next: Amazon
-  - name: Dhaval Patel
-    next: Intel
-  - name: Chris Sinclair
-    next: Creative Artists
-  - name: Cua Thao
-  - name: Muhsin Fatih Yorulmaz
-    next: Pictor Labs
-
-bs:
   - name: Daniel Bowers
+    degree: B.S.
     next: Pilot Fiber
   - name: Dustin Bowers
+    degree: B.S.
     next: Pilot Fiber
   - name: Andrea Brandt
+    degree: B.S.
   - name: John Brown
+    degree: B.S.
     next: Comcast
   - name: Owen Cabalceta
+    degree: B.S.
     next: Comcast
   - name: Kevin Calhoun
+    degree: B.S.
+  - name: Steven Danilowicz
+    degree: M.S.
+    next: HDR, Inc.
   - name: Brian Davis
+    degree: B.S.
     next: SAP
+  - name: Jinzhu (Natalia) Deng
+    degree: M.S.
+  - name: Pete Giardiniere
+    degree: M.S.
   - name: Joe Hadley
+    degree: B.S.
     next: Accenture
   - name: Brandon Kerr
+    degree: B.S.
     next: NSF GRF, Boeing
   - name: Sally Kim (Georgia Tech)
+    degree: B.S.
     next: Amazon
+  - name: Jerrod Kraftchick
+    degree: M.S.
+    next: Duke Energy
   - name: Patrick Lachance
+    degree: B.S.
   - name: Jake Lawrence
+    degree: B.S.
     next: Facebook
   - name: Peter Malmgren
+    degree: B.S.
     next: Nexcom Mobility
   - name: Cecilia Mauceri (Oberlin College)
+    degree: B.S.
     next: Ph.D. Student, UIUC
+  - name: Prem Murugesan
+    degree: M.S.
+    next: Amazon
   - name: Terrell Nowlin
+    degree: B.S.
     next: NYU / Comcast
   - name: Kat Osadchuck
+    degree: B.S.
     next: Vanguard
+  - name: Dhaval Patel
+    degree: M.S.
+    next: Intel
   - name: Shaun Pickford
+    degree: B.S.
     next: Microsoft
   - name: Madilyn Simons
+    degree: B.S.
     next: Blizzard Entertainment
+  - name: Chris Sinclair
+    degree: M.S.
+    next: Creative Artists
+  - name: Cua Thao
+    degree: M.S.
   - name: Quang Tran
+    degree: B.S.
     next: VantaForce
+  - name: Muhsin Fatih Yorulmaz
+    degree: M.S.
+    next: Pictor Labs
